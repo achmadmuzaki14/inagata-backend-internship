@@ -2,7 +2,7 @@
 Inagata backend internship test
 
 ## Requirement
-- PHP >= 7.4
+- PHP >= 8.2
 - NPM LTS (Node.js)
 - Composer
 
